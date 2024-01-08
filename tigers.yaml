@@ -1,8 +1,10 @@
-team : Tigers
+team: Tigers
 
-manager : Donald
+manager: Donald
 
-members :
+Coach: Grace
+
+members:
 - Linda
 - Wiliam
 - David
